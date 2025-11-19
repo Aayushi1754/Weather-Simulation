@@ -1,0 +1,31 @@
+Date,Day,Condition,Temperature (°C),Humidity (%),Rainfall (events),Thunderstorm
+2025-11-09,1,Clear,20.76,56.88,6,False
+2025-11-10,2,Partially cloudy,19.93,55.09,6,False
+2025-11-11,3,Clear,19.73,50.77,6,False
+2025-11-12,4,Clear,20.15,67.85,2,False
+2025-11-13,5,Clear,20.1,54.8,4,False
+2025-11-14,6,Clear,20.55,44.86,12,False
+2025-11-15,7,Clear,19.21,62.95,6,False
+2025-11-16,8,Clear,20.15,51.39,7,False
+2025-11-17,9,Clear,20.53,50.09,6,False
+2025-11-18,10,Partially cloudy,20.39,48.29,6,False
+2025-11-19,11,Partially cloudy,21.0,56.87,3,False
+2025-11-20,12,Partially cloudy,19.15,64.06,4,False
+2025-11-21,13,Clear,19.44,54.6,2,False
+2025-11-22,14,Clear,21.65,53.01,3,False
+2025-11-23,15,Clear,18.92,63.07,5,False
+2025-11-24,16,Clear,20.47,51.02,10,False
+2025-11-25,17,Partially cloudy,19.33,60.85,5,False
+2025-11-26,18,Clear,19.45,54.61,7,False
+2025-11-27,19,Clear,20.81,45.19,2,False
+2025-11-28,20,Partially cloudy,20.44,53.82,7,True
+2025-11-29,21,Clear,19.72,58.53,4,False
+2025-11-30,22,Clear,19.89,60.07,4,False
+2025-12-01,23,Clear,20.61,51.91,9,False
+2025-12-02,24,Clear,19.74,52.42,6,False
+2025-12-03,25,Partially cloudy,20.64,53.68,10,False
+2025-12-04,26,Clear,20.53,59.3,2,False
+2025-12-05,27,Clear,20.16,53.45,4,False
+2025-12-06,28,Clear,19.84,58.51,10,True
+2025-12-07,29,Clear,19.76,60.14,7,False
+2025-12-08,30,Clear,20.31,52.76,8,False
